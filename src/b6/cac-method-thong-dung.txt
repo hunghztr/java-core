@@ -1,0 +1,54 @@
+ Các phương thức thông dụng của lớp String trong Java
+length()
+→ Trả về độ dài (số ký tự) của chuỗi.
+
+charAt(int index)
+→ Trả về ký tự tại vị trí chỉ định.
+
+substring(int beginIndex)
+→ Cắt chuỗi từ vị trí bắt đầu đến hết chuỗi.
+
+substring(int beginIndex, int endIndex)
+→ Cắt chuỗi từ vị trí bắt đầu đến trước vị trí kết thúc.
+
+toUpperCase()
+→ Chuyển toàn bộ chuỗi thành chữ in hoa.
+
+toLowerCase()
+→ Chuyển toàn bộ chuỗi thành chữ thường.
+
+equals(String anotherString)
+→ So sánh nội dung chuỗi, phân biệt chữ hoa và thường.
+
+contains(CharSequence sequence)
+→ Kiểm tra xem chuỗi có chứa đoạn ký tự cụ thể không.
+
+replace(char oldChar, char newChar)
+→ Thay thế tất cả ký tự cũ bằng ký tự mới trong chuỗi.
+
+replaceAll(String regex, String replacement)
+→ Thay thế tất cả phần khớp với biểu thức chính quy bằng chuỗi mới.
+
+indexOf(String str)
+→ Trả về vị trí xuất hiện đầu tiên của chuỗi con.
+
+lastIndexOf(String str)
+→ Trả về vị trí xuất hiện cuối cùng của chuỗi con.
+
+startsWith(String prefix)
+→ Kiểm tra chuỗi có bắt đầu bằng đoạn ký tự chỉ định không.
+
+endsWith(String suffix)
+→ Kiểm tra chuỗi có kết thúc bằng đoạn ký tự chỉ định không.
+
+trim()
+→ Loại bỏ khoảng trắng ở đầu và cuối chuỗi.
+
+isEmpty()
+→ Kiểm tra chuỗi có rỗng (không có ký tự) không.
+
+compareTo(String anotherString)
+→ So sánh từ điển giữa hai chuỗi (trả về số nguyên).
+
+valueOf(data)
+→ Chuyển các kiểu dữ liệu khác về chuỗi (static method).
