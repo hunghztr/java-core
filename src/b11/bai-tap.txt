@@ -1,0 +1,12 @@
+1.nhập vào số nguyên n, tìm ước tự nhiên của n
+input: 3 => ouput: 1 3
+
+2.nhập vào a b, tìm ước chung lớn nhất của 2 số a b
+input: 3 6 => ouput: 3
+input: 7 9 => output: 1
+
+3.nhập vào n, tìm chữ số đầu tiên của n
+input: 23413 => ouput: 2
+
+4.nhập vào n, đếm n có bao nhiêu chữ số
+input: 12345 => output: 5 

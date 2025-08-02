@@ -1,0 +1,10 @@
+Math.abs(x)	Trả về giá trị tuyệt đối của x
+Math.max(a, b)	Trả về giá trị lớn nhất giữa a và b
+Math.min(a, b)	Trả về giá trị nhỏ nhất giữa a và b
+Math.pow(a, b)	Trả về a lũy thừa b (a^b)
+Math.sqrt(x)	Trả về căn bậc hai của x
+Math.round(x)	Làm tròn số x đến số nguyên gần nhất
+Math.floor(x)	Làm tròn xuống (sàn) số x đến số nguyên nhỏ hơn hoặc bằng
+Math.ceil(x)	Làm tròn lên (trần) số x đến số nguyên lớn hơn hoặc bằng
+Math.random()	Trả về một số thực ngẫu nhiên từ 0.0 đến nhỏ hơn 1.0
+Math.PI	Hằng số π (pi ≈ 3.141592653589793)

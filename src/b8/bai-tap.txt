@@ -1,0 +1,18 @@
+bài tập:
+1.nhập vào 1 số nguyên từ bàn phím, kiểm tra xem số chẵn hay lẻ
+input: 3 => output: là số lẻ
+input: 2 => output: là số chẵn
+
+2.nhập vào 2 số nguyên từ bàn phím, so sánh 2 số và in ra kết luận
+input: 2 3 => output: 2 nhỏ hơn 3
+input: 3 3 => output: 3 bằng 3
+input: 4 2 => output: 4 lớn hơn 2
+
+3.nhập vào 3 cạnh, kiểm tra xem 3 cạnh có tạo nên 1 tam giác hay không
+(gợi ý : tổng 2 cạnh bất kì lớn hơn cạnh còn lại thì có tạo nên 1 tam giác)
+input: 4 5 6 => output: tạo nên tam giác
+input: 1 2 3 => output: không tạo nên tam giác
+
+4.nhập vào 1 chuỗi kí tự, kiểm tra xem kí tự đầu và kí tự cuối có trùng nhau không
+input: hello => output: NO
+input: MAM => output: YES
