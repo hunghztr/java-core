@@ -1,0 +1,19 @@
+1. viết method tìm giá trị lớn nhất giữa 3 số
+input: 3 5 1 => output: 5
+2. nhập vào n số nguyên, viết method tính trung bình cộng của n số nguyên đó
+input: n: 4
+       5 4 6 5 => output: 5
+3. nhập vào 1 chuỗi, viết method đếm kí tự viết in hoa , in thường(không tính khoảng trắng)
+input: Hello World In Java => output: in hoa:4 , in thường:12
+4. nhập vào n, viết method hiển thị chữ số đầu tiên của 1 số
+input: 4592 => output:4
+5. viết method tính tổng các chữ số có trong số n nhập từ bàn phím
+input: 5493 => output: 21
+6. viết method kiểm tra số nguyên tố
+input: 9 => output: NO
+input:7 => output: YES
+7. nhập vào số nguyên n, viết method in ra số nguyên tố từ 2 đến n
+input: 25 => output: 2 3 4 5 7 11 13 17 19 23 
+8. nhập vào n, viết method kiểm tra xem n có chứa 8 hay không
+input: 49583 => output: YES
+input: 4356 => output: NO

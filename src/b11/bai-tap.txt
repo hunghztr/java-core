@@ -10,3 +10,6 @@ input: 23413 => ouput: 2
 
 4.nhập vào n, đếm n có bao nhiêu chữ số
 input: 12345 => output: 5 
+
+5.nhập vào n, tìm chữ số lớn nhất trong nguyên
+input: 2476 => ouput: 7

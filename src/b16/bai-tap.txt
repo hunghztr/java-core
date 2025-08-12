@@ -1,0 +1,39 @@
+1. nhập vào mảng n phần tử, tính tổng các phẩn tử trong mảng
+input: 5
+       3 4 5 3 2 => output: 17
+
+2. nhập vào mảng n phần tử, kiểm tra mảng đó chỉ toàn số chẵn hay không
+input: 5
+       2 3 4 2 1 => output: NO
+input: 3
+       2 4 2 => output: YES
+
+3. nhập vào n phần tử, in ra phần tử số nguyên tố
+input: 4
+       4 5 6 7 => output: 5 7
+
+4. nhập vào mảng n phần tử, kiểm tra xem phần tử trong mảng đó tăng dần hay không
+input: 3
+       2 3 1 => output: NO
+input: 3
+       2 4 5 => output: YES
+
+5. nhập vào n phần tử, tìm số lớn nhất
+input: 4
+       4 3 6 10 => output: 10
+
+6. nhập vào n phần tử, kiểm tra mảng đó có đối xứng hay không
+input: 4
+       3 4 5 3 => output: NO
+input: 5
+       2 3 4 3 2 => output: YES
+
+7.nhập vào n phần tử, tìm giá trị lớn thứ 2 trong mảng
+input: 5
+       4 3 5 6 1 => output: 5
+input: 5
+       1 1 1 1 1 => output: Không có
+       
+8. nhập vào n phần tử, đếm số lần xuất hiện của mỗi phần tử
+input: 5
+       3 4 3 2 2 => output: 3 xuất hiện 2 lần, 4 xuất hiện 1 lần, 2 xuất hiện 2 lần
